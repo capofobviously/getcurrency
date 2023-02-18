@@ -1,4 +1,5 @@
 {
+	"name": "currency",
 	"homepage": "https://capofobviously.github.io/getcurrency",
 	"version": "1.0.0",
 	"scripts": {
